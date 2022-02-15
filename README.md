@@ -7,6 +7,8 @@ This is a code repository for EthPay.
 
 EthPay is a Web 3.0 blockchain application made using Web 3.0 methodologies, Solidity and Metamask.
 
+Hosted at - https://atharv.tk
+
 
 E-mail - contact@realatharv.ga
 
