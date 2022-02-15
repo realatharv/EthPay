@@ -10,4 +10,4 @@ EthPay is a Web 3.0 blockchain application made using Web 3.0 methodologies, Sol
 
 E-mail - contact@realatharv.ga
 
-##Thanks for your time
+
