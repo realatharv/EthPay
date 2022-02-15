@@ -1,6 +1,6 @@
 # EthPay
 # EthPay - Web 3.0 Blockchain Application
-![EthPay](https://i.ibb.co/DVF4tNW/image.png)
+![EthPay](https://cdn.discordapp.com/attachments/839510190453424171/943135561386975253/Capture.PNG)
 
 ## Introduction
 This is a code repository for EthPay.
