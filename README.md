@@ -1,6 +1,6 @@
 # EthPay
 # EthPay - Web 3.0 Blockchain Application
-![EthPay](https://tenor.com/view/gif-24920534)
+(demo2.gif) / ! [](demo2.gif)
 
 ## Introduction
 This is a code repository for EthPay.
