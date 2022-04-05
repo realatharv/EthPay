@@ -22,5 +22,5 @@ EthPay is a Web 3.0 blockchain application used to send Ethereum.
 
 ## Support
 
-For support, email atharv@tuta.io or contact me on [Twitter](https://twitter.com/realatharv).
+For support, email atharvwv@outlook.com or contact me on [Twitter](https://twitter.com/realatharv).
 
