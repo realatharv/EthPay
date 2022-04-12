@@ -1,8 +1,8 @@
 
-# [EthPay](https://realatharv.ga/ethpay) 
+# [EthPay](https://ethpay.realatharv.ga) 
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-EthPay is a Web 3.0 blockchain application used to send Ethereum.
+[EthPay](https://ethpay.realatharv.ga) is a Web 3.0 blockchain application used to send Ethereum.
 
 
 ![Logo](https://realatharv.ga/assets/logo.290030a9.png)
